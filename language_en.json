@@ -9,7 +9,9 @@
     ],
     "Phrases":{
         "SiteTitle":"Breathe Slowly",
-        "SiteDescription":"The eXHALeR web app is meant to help with your breathing excercises, and has been said to reduce stress and anxiety, by promoting slow and even breathing patterns.",
+        "SiteDescription":"The eXHALeR web app is meant to help with your breathing exercises, and has been said to reduce stress and anxiety, by promoting slow and even breathing patterns.",
+        "SiteNews":"News / Help",
+        "TextReady":"ready",
         "TextInhale":"inhale",
         "TextExhale":"exhale",
         "TextHold":"hold",
