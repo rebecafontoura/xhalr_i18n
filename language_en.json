@@ -1,0 +1,36 @@
+{
+    "LanguageLong":"English",
+    "LanguageShort":"en",
+    "contributors":[
+      {
+        "name":"Hamilton Cline",
+        "url":"http://www.hamiltondraws.com"
+      }
+    ],
+    "Phrases":{
+        "SiteTitle":"Breathe Slowly",
+        "SiteDescription":"The eXHALeR web app is meant to help with your breathing excercises, and has been said to reduce stress and anxiety, by promoting slow and even breathing patterns.",
+        "TextInhale":"inhale",
+        "TextExhale":"exhale",
+        "TextHold":"hold",
+        "SettingsDescription":"Use this breathing app to help with your yoga or meditation exercises. If you are suffering from anxiety or panic attacks, please visit the <a href='http://www.adaa.org/tips-manage-anxiety-and-stress' target='_blank'>ADAA</a> for more help and tips.",
+        "SettingsDefault1":"Default",
+        "SettingsDefault2":"Square",
+        "SettingsDefault3":"Pranayama",
+        "SettingsDefault4":"Ujjayi",
+        "SettingsSlider1":"Breathe In",
+        "SettingsSlider2":"Hold",
+        "SettingsSlider3":"Breathe Out",
+        "SettingsSlider4":"Hold",
+        "SettingsSectionTheme":"Theme",
+        "SettingsThemeColor":"Day / Night",
+        "SettingsThemeWords":"Show Words",
+        "SettingsThemeAudio":"Play Audio",
+        "SettingsThemeFullscreen":"Fullscreen",
+        "SettingsSectionShare":"Share",
+        "SettingsShareJoin":"<a href='https://www.facebook.com/xhalr/posts/1489984897976856' target='_blank'>Join us on Facebook</a> to discuss more breathing patterns.",
+        "SettingsShareEmbed":"Want to embed the eXHALeR app into your website? Use this embed code and share it with your users.",
+        "CreatedBy":"Created by <a href='http://www.hamiltondraws.com' target='_blank'>Hamilton Cline</a>",
+        "Donate":"Donate Through Paypal"
+    }
+}
