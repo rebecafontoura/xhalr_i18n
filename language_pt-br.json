@@ -8,7 +8,7 @@
       }
     ],
     "Phrases":{
-        "SiteTitle":"Respire Lentamente",
+        "SiteTitle":"Breathe Slowly",
         "SiteDescription":"The eXHALeR web app is meant to help with your breathing excercises, and has been said to reduce stress and anxiety, by promoting slow and even breathing patterns.",
         "TextInhale":"inspire",
         "TextExhale":"expire",
@@ -25,7 +25,8 @@
         "SettingsSectionTheme":"Tema",
         "SettingsThemeColor":"Dia / Noite",
         "SettingsThemeWords":"Mostrar Palavras",
-        "SettingsThemeAudio":"Reproduzir áudio",
+        "SettingsThemeAudio":"Play Audio",
+        "SettingsThemeLanguage":"Choose Language",
         "SettingsThemeFullscreen":"Tela cheia (exceto iOS Safari)",
         "SettingsSectionShare":"Compartilhe",
         "SettingsShareJoin":"<a href='https://www.facebook.com/xhalr/posts/1489984897976856' target='_blank'>Acompanhe-nos no Facebook</a> para discutir mais sobre padrões de respiração.",
