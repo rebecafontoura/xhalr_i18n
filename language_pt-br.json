@@ -10,6 +10,8 @@
     "Phrases":{
         "SiteTitle":"Respire Lentamente",
         "SiteDescription":"O web app eXHALeR tem o objetivo de te ajudar com exercícios de respiração - que são uma forma de reduzir estresse e ansiedade ao promover respirações mais calmas e até mesmo padronizadas.",
+        "SiteNews":"Notícias / Ajuda",
+        "TextReady":"disposto",
         "TextInhale":"inspire",
         "TextExhale":"expire",
         "TextHold":"manter",
