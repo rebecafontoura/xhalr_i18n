@@ -1,0 +1,39 @@
+{
+    "LanguageLong":"Russian",
+    "LanguageShort":"ru",
+    "Contributors":[
+      {
+        "name":"Ria Carmin",
+        "url":"http://www.riacarmin.com"
+      }
+    ],
+    "Phrases":{
+        "SiteTitle":"Спокойное Дыхание",
+        "SiteDescription":"eXHALeR это приложение, которое научит Вас дыхательным упражнениям, а также поможет снять стресс с помощью спокойного, размеренного дыхания.",
+        "SiteNews":"Новости / Помощь",
+        "TextReady":"старт",
+        "TextInhale":"вдохните",
+        "TextExhale":"выдохните",
+        "TextHold":"задержите",
+        "SettingsDescription":"Используйте это приложение для практики йоги и медитации. Если Вы страдаете от стресса или панических атак, пожалуйста, ознакомьтесь с <a href='http://www.adaa.org/tips-manage-anxiety-and-stress' target='_blank'> этим сайтом (ADAA)</a> для помощи и совета.",
+        "SettingsDefault1":"Стандартный",
+        "SettingsDefault2":"Квадрат",
+        "SettingsDefault3":"Пранаяма",
+        "SettingsDefault4":"Уджаи",
+        "SettingsSlider1":"Вдохните",
+        "SettingsSlider2":"Задержите",
+        "SettingsSlider3":"Выдохните",
+        "SettingsSlider4":"Задержите",
+        "SettingsSectionTheme":"Тема",
+        "SettingsThemeColor":"День / Ночь",
+        "SettingsThemeWords":"Субтитры",
+        "SettingsThemeAudio":"Звук",
+        "SettingsThemeLanguage":"Выбрать Язык",
+        "SettingsThemeFullscreen":"Полноэкранный",
+        "SettingsSectionShare":"Поделись",
+        "SettingsShareJoin":"<a href='https://www.facebook.com/xhalr/posts/1489984897976856' target='_blank'>Присоединитесь к нам на Фэйсбук</a> и поделитесь своими упражнениями.",
+        "SettingsShareEmbed":"Хотите использовать eXHALeR на Вашеи сайте? Добавьте этот код на свой сайт для Ваших пользователей",
+        "CreatedBy":"Приложение разработано <a href='http://www.hamiltondraws.com' target='_blank'>Хамильтоном Клайном (Hamilton Cline)</a>",
+        "Donate":"Пожертвовать на проект через Paypal"
+    }
+}
