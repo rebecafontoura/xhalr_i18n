@@ -1,0 +1,39 @@
+{
+    "LanguageLong":"Chinese Simplified",
+    "LanguageShort":"zh",
+    "Contributors":[
+      {
+        "name":"郑长缨",
+        "url":" "
+      }
+    ],
+    "Phrases":{
+        "SiteTitle":"慢慢地呼吸",
+        "SiteDescription":" eXHALeR 程序是为了帮助你练习呼吸. 通过缓慢均勻呼吸减轻压力和焦虑。",
+        "SiteNews":"新闻 / 解难",
+        "TextReady":"准备",
+        "TextInhale":"吸入",
+        "TextExhale":"呼出",
+        "TextHold":"屏住呼吸",
+        "SettingsDescription":"使用此呼吸程序，以帮助你的瑜伽冥想或练习. 如果你患有焦虑症或惊恐症,需要更多的帮助和提示，请访问 <a href='http://baike.qm120.com/jbjb/jsb/jlz/' target='_blank'>全民健康网|焦虑症</a> ",
+        "SettingsDefault1":"初始狀态",
+        "SettingsDefault2":"四方",
+        "SettingsDefault3":"Pranayama",
+        "SettingsDefault4":"乌珈依呼吸",
+        "SettingsSlider1":"吸 入",
+        "SettingsSlider2":"屏住呼吸",
+        "SettingsSlider3":"呼 出",
+        "SettingsSlider4":"屏住呼吸",
+        "SettingsSectionTheme":"主题样式",
+        "SettingsThemeColor":"白天 / 夜晚",
+        "SettingsThemeWords":"显示词汇",
+        "SettingsThemeAudio":"播放音频",
+        "SettingsThemeLanguage":"选择语言",
+        "SettingsThemeFullscreen":"全屏",
+        "SettingsSectionShare":"分享",
+        "SettingsShareJoin":"如果你想讨论更多的呼吸方式请加入我们的<a href='https://www.facebook.com/xhalr/posts/1489984897976856' target='_blank'>Facebook</a>",
+        "SettingsShareEmbed":"要嵌入eXHALeR到您的网站？使用此嵌入代码，并与您的用户共享。",
+        "CreatedBy":"Created by <a href='http://www.hamiltondraws.com' target='_blank'>Hamilton Cline</a>",
+        "Donate":"通过PayPal捐赠"
+    }
+}
