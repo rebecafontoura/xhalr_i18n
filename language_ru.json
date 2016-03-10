@@ -1,6 +1,7 @@
 {
-    "LanguageLong":"Russian",
-    "LanguageShort":"ru",
+    "LanguageEnglish":"Russian",
+    "LanguageNative":"Русский",
+    "LanguageCode":"ru",
     "Contributors":[
       {
         "name":"Ria Carmin",

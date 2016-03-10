@@ -1,10 +1,15 @@
 {
-    "LanguageLong":"English",
-    "LanguageShort":"en",
+    "LanguageEnglish":"English",
+    "LanguageNative":"English",
+    "LanguageCode":"en",
     "Contributors":[
       {
         "name":"Hamilton Cline",
         "url":"http://www.hamiltondraws.com"
+      },
+      {
+        "name":"Max Ma",
+        "url":"http://www.mxma.net"
       }
     ],
     "Phrases":{
@@ -21,9 +26,9 @@
         "SettingsDefault3":"Pranayama",
         "SettingsDefault4":"Ujjayi",
         "SettingsSlider1":"Breathe In",
-        "SettingsSlider2":"Hold",
+        "SettingsSlider2":"Hold Breath",
         "SettingsSlider3":"Breathe Out",
-        "SettingsSlider4":"Hold",
+        "SettingsSlider4":"Hold Breath",
         "SettingsSectionTheme":"Theme",
         "SettingsThemeColor":"Day / Night",
         "SettingsThemeWords":"Show Words",

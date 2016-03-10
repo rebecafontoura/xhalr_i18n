@@ -1,0 +1,40 @@
+{
+    "LanguageEnglish":"Turkish",
+    "LanguageNative":"Türkçe",
+    "LanguageCode":"tr",
+    "Contributors":[
+      {
+        "name":"Enes Olcay",
+        "url":"http://enesolcay.com"
+      }
+    ],
+    "Phrases":{
+        "SiteTitle":"Yavaşça Nefes Al",
+        "SiteDescription":"eXHALeR uygulamasının amacı size nefes egzersizlerinde yardımcı olmaktır. Yavaş ve dengeli nefes almak, stresi ve sıkıntıyı azaltır.",
+        "SiteNews":"Haberler / Yardım",
+        "TextReady":"hazır ol",
+        "TextInhale":"nefes al",
+        "TextExhale":"nefes ver",
+        "TextHold":"nefesini tut",
+        "SettingsDescription":"Bu nefes alma uygulamasını yoga ve meditasyon yaparken kullanabilirsiniz. Kaygı bozukluğu ve panik atak gibi şikayetleriniz varsa bilgi ve yardım alabilmek için lütfen bu adresi ziyaret ediniz. <a href='http://www.adaa.org/tips-manage-anxiety-and-stress' target='_blank'>ADAA</a>",
+        "SettingsDefault1":"Varsayılan",
+        "SettingsDefault2":"Kare",
+        "SettingsDefault3":"Pranayama",
+        "SettingsDefault4":"Ujjayi",
+        "SettingsSlider1":"Nefes Al",
+        "SettingsSlider2":"Nefesini Tut",
+        "SettingsSlider3":"Nefes Ver",
+        "SettingsSlider4":"Nefesini Tut",
+        "SettingsSectionTheme":"Tema",
+        "SettingsThemeColor":"Gündüz / Gece",
+        "SettingsThemeWords":"Kelimeleri Göster",
+        "SettingsThemeAudio":"Müzik Çal",
+        "SettingsThemeLanguage":"Dil Seç",
+        "SettingsThemeFullscreen":"Tam Ekran",
+        "SettingsSectionShare":"Paylaş",
+        "SettingsShareJoin":"Diğer insanlarla doğru nefes alma teknikleri hakkında konuşmak için <a href='https://www.facebook.com/xhalr/posts/1489984897976856' target=‘_blank'>Facebook sayfamızı</a> ziyaret edin.",
+        "SettingsShareEmbed":"eXHALeR uygulamasını kendi sitenizde kullanmak mı istiyorsunuz? Bu ekleme kodunu kullanın ve kullanıcılarınızla paylaşın.",
+        "CreatedBy":"<a href='http://www.hamiltondraws.com' target='_blank'>Hamilton Cline</a> tarafından yapılmıştır.",
+        "Donate":"Paypal üzerinden bağış yapın."
+    }
+}

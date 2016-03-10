@@ -1,6 +1,7 @@
 {
-    "LanguageLong":"Irish",
-    "LanguageShort":"ga",
+    "LanguageEnglish":"Irish",
+    "LanguageNative":"Gaeilge",
+    "LanguageCode":"ga",
     "Contributors":[
       {
         "name":"Fred McHale",

@@ -1,6 +1,7 @@
 {
-    "LanguageLong":"Chinese Simplified",
-    "LanguageShort":"zh",
+    "LanguageEnglish":"Chinese Simplified",
+    "LanguageNative":"中文",
+    "LanguageCode":"zh",
     "Contributors":[
       {
         "name":"郑长缨",
@@ -9,13 +10,13 @@
     ],
     "Phrases":{
         "SiteTitle":"慢慢地呼吸",
-        "SiteDescription":" eXHALeR 程序是为了帮助你练习呼吸. 通过缓慢均勻呼吸减轻压力和焦虑。",
+        "SiteDescription":" eXHALeR 程序是为了帮助你练习呼吸。 通过缓慢均勻呼吸减轻压力和焦虑。",
         "SiteNews":"新闻 / 解难",
         "TextReady":"准备",
         "TextInhale":"吸入",
         "TextExhale":"呼出",
         "TextHold":"屏住呼吸",
-        "SettingsDescription":"使用此呼吸程序，以帮助你的瑜伽冥想或练习. 如果你患有焦虑症或惊恐症,需要更多的帮助和提示，请访问 <a href='http://baike.qm120.com/jbjb/jsb/jlz/' target='_blank'>全民健康网|焦虑症</a> ",
+        "SettingsDescription":"使用此呼吸程序，以帮助你的瑜伽冥想或练习。 如果你患有焦虑症或惊恐症,需要更多的帮助和提示，请访问 <a href='http://baike.qm120.com/jbjb/jsb/jlz/' target='_blank'>全民健康网|焦虑症</a> ",
         "SettingsDefault1":"初始狀态",
         "SettingsDefault2":"四方",
         "SettingsDefault3":"Pranayama",
