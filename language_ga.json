@@ -1,0 +1,39 @@
+{
+    "LanguageLong":"Irish",
+    "LanguageShort":"ga",
+    "Contributors":[
+      {
+        "name":"Fred McHale",
+        "url":"http://www.binaryfever.com"
+      }
+    ],
+    "Phrases":{
+        "SiteTitle":"Anáil go mall",
+        "SiteDescription":"Is é an app gréasáin eXHALeR i gceist chun cabhrú le do cleachtaí análaithe , agus a bhfuil ráite strus agus imní a laghdú , trí chur chun cinn patrúin mall agus fiú análaithe .",
+        "SiteNews":"Nuacht / Cabhair",
+        "TextReady":"réidh",
+        "TextInhale":"inhale",
+        "TextExhale":"exhale",
+        "TextHold":"fan",
+        "SettingsDescription":"Má tá tú ag fulaingt ó imní nó Scaoill ionsaithe, tabhair cuairt ar an <a href='http://www.adaa.org/tips-manage-anxiety-and-stress' target='_blank'>ADAA</a> le haghaidh tuilleadh cabhrach agus leideanna.",
+        "SettingsDefault1":"Réamhshocrú",
+        "SettingsDefault2":"Cearnóg",
+        "SettingsDefault3":"Pranayama",
+        "SettingsDefault4":"Ujjayi",
+        "SettingsSlider1":"Anáil I",
+        "SettingsSlider2":"Coinnigh",
+        "SettingsSlider3":"Anáil Amach",
+        "SettingsSlider4":"Coinnigh",
+        "SettingsSectionTheme":"Téama",
+        "SettingsThemeColor":"Lá / Oíche",
+        "SettingsThemeWords":"Taispeáin Focail",
+        "SettingsThemeAudio":"Tosaigh Fuaime",
+        "SettingsThemeLanguage":"Roghnaigh Teanga",
+        "SettingsThemeFullscreen":"Scáileán iomlán",
+        "SettingsSectionShare":"Inis do",
+        "SettingsShareJoin":"<a href='https://www.facebook.com/xhalr/posts/1489984897976856' target='_blank'>Bí linn ar Facebook</a> chun patrúin análaithe níos phlé.",
+        "SettingsShareEmbed":"Leabú an app eXHALeR isteach i do láithreán gréasáin ? Bain úsáid as an cód leabú agus é a roinnt le do úsáideoirí.",
+        "CreatedBy":"Cruthaithe ag <a href='http://www.hamiltondraws.com' target='_blank'>Hamilton Cline</a>",
+        "Donate":"Síntiúis Trí PayPal"
+    }
+}
