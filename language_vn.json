@@ -1,0 +1,40 @@
+{
+    "LanguageEnglish":"Vietnamese",
+    "LanguageNative":"Tiếng Việt",
+    "LanguageCode":"vn",
+    "Contributors":[
+      {
+        "name":"Khai Pham",
+        "url":"http://www.khai.design"
+      }
+    ],
+    "Phrases":{
+        "SiteTitle":"Hít Sâu Thở Chậm",
+        "SiteDescription":"eXHALeR là trang web giới thiệu cho bạn những phương pháp thở đúng cách, giúp giảm căng thẳng và lo âu, thông qua những bài tập thở chậm và thở đều.",
+        "SiteNews":"Tin tức / Giúp đỡ",
+        "TextReady":"sẵn sàng chứ",
+        "TextInhale":"hít vào",
+        "TextExhale":"thở ra",
+        "TextHold":"giữ",
+        "SettingsDescription":"Trang web này cung cấp những phương pháp thở đúng cách khi tập yoga và thiền. Nếu bạn cảm thấy mình có triệu chứng của các bệnh tâm lí như lo âu hay rối loạn hoảng sợ, hãy tham khảo trang web <a href='http://www.adaa.org/tips-manage-anxiety-and-stress' target='_blank'>ADAA</a> để được giúp đỡ.",
+        "SettingsDefault1":"Mặc Định",
+        "SettingsDefault2":"Vuông",
+        "SettingsDefault3":"Pranayama",
+        "SettingsDefault4":"Ujjayi",
+        "SettingsSlider1":"Hít Vào",
+        "SettingsSlider2":"Giữ Hơi",
+        "SettingsSlider3":"Thở Ra",
+        "SettingsSlider4":"Giữ Hơi",
+        "SettingsSectionTheme":"Giao Diện",
+        "SettingsThemeColor":"Ngày / Đêm",
+        "SettingsThemeWords":"Hiện Chữ",
+        "SettingsThemeAudio":"Nhạc",
+        "SettingsThemeLanguage":"Chọn Ngôn Ngữ",
+        "SettingsThemeFullscreen":"Toàn Màn Hình",
+        "SettingsSectionShare":"Chia Sẻ",
+        "SettingsShareJoin":"Hay tham gia bàn luận và chia sẻ các kĩ thuật thở trên<a href='https://www.facebook.com/xhalr/posts/1489984897976856' target='_blank'> Facebook của eXHALeR</a>",
+        "SettingsShareEmbed":"Sử dụng đoạn mã dưới đây để nhúng eXHALeR vào trang web của bạn và chia sẻ với mọi người.",
+        "CreatedBy":"Tạo bởi <a href='http://www.hamiltondraws.com' target='_blank'>Hamilton Cline</a>",
+        "Donate":"Đóng Góp Qua Paypal"
+    }
+}
