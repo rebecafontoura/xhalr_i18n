@@ -10,15 +10,15 @@
     ],
     "Phrases":{
         "SiteTitle":"Hít Sâu Thở Chậm",
-        "SiteDescription":"The eXHALeR web app is meant to help with your breathing exercises, and has been said to reduce stress and anxiety, by promoting slow and even breathing patterns.",
+        "SiteDescription":"eXHALeR là trang web giúp bạn tập thở đúng cách, giúp giảm căng thẳng và lo lắng, thông qua những bài tập thở chậm và thở đều.",
         "SiteNews":"Tin tức / Giúp đỡ",
-        "TextReady":"sẵn sàng",
+        "TextReady":"sẵn sàng chứ",
         "TextInhale":"hít vào",
         "TextExhale":"thở ra",
         "TextHold":"giữ",
-        "SettingsDescription":"Trang web này giúp bạn thở đúng cách khi tập yoga và thiền. Nếu bạn cảm thấy căng thẳng hoặc hoảng loạn, hãy đến trang web <a href='http://www.adaa.org/tips-manage-anxiety-and-stress' target='_blank'>ADAA</a> để được giúp đỡ.",
-        "SettingsDefault1":"Mặc định",
-        "SettingsDefault2":"Square",
+        "SettingsDescription":"Trang web này giúp bạn thở đúng cách khi tập yoga và thiền. Nếu bạn cảm thấy mình có triệu chứng của các bệnh tâm lí như lo âu hay rối loạn hoảng sợ, hãy đến trang web <a href='http://www.adaa.org/tips-manage-anxiety-and-stress' target='_blank'>ADAA</a> để được giúp đỡ.",
+        "SettingsDefault1":"Mặc Định",
+        "SettingsDefault2":"Vuông",
         "SettingsDefault3":"Pranayama",
         "SettingsDefault4":"Ujjayi",
         "SettingsSlider1":"Hít Vào",
@@ -32,9 +32,9 @@
         "SettingsThemeLanguage":"Chọn Ngôn Ngữ",
         "SettingsThemeFullscreen":"Toàn Màn Hình",
         "SettingsSectionShare":"Chia Sẻ",
-        "SettingsShareJoin":"<a href='https://www.facebook.com/xhalr/posts/1489984897976856' target='_blank'>Join us on Facebook</a> to discuss more breathing patterns.",
-        "SettingsShareEmbed":"Want to embed the eXHALeR app into your website? Use this embed code and share it with your users.",
-        "CreatedBy":"Created by <a href='http://www.hamiltondraws.com' target='_blank'>Hamilton Cline</a>",
-        "Donate":"Donate Through Paypal"
+        "SettingsShareJoin":"Hay tham gia bàn luận và chia sẻ các kĩ thuật thở trên<a href='https://www.facebook.com/xhalr/posts/1489984897976856' target='_blank'> Facebook của eXHALeR</a>",
+        "SettingsShareEmbed":"Sử dụng đoạn mã dưới đây để nhúng eXHALeR vào trang web của bạn và chia sẻ với mọi người.",
+        "CreatedBy":"Tạo bởi <a href='http://www.hamiltondraws.com' target='_blank'>Hamilton Cline</a>",
+        "Donate":"Đóng Góp Qua Paypal"
     }
 }
