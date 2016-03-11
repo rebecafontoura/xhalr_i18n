@@ -1,0 +1,40 @@
+{
+    "LanguageEnglish":"Traditional Chinese",
+    "LanguageNative":"繁體中文",
+    "LanguageCode":"zh-Hant",
+    "Contributors":[
+      {
+        "name":"黃維綸",
+        "url":" "
+      }
+    ],
+    "Phrases":{
+        "SiteTitle":"慢慢地呼吸",
+        "SiteDescription":" eXHALeR 程式能幫助你練習呼吸。 透過緩慢均勻地呼吸減輕壓力和焦慮。",
+        "SiteNews":"消息 / 求助",
+        "TextReady":"準備",
+        "TextInhale":"吸入",
+        "TextExhale":"呼出",
+        "TextHold":"屏住呼吸",
+        "SettingsDescription":"使用此呼吸程式，以幫助你的瑜伽冥想或練習。 如果你患有焦慮症或驚恐症,需要更多的幫助和提示，請訪問 <a href='http://www.ucep.org.hk/cognition/anxiety_disorder.htm' target='_blank'>聯合情緒健康教育中心|焦慮症</a> ",
+        "SettingsDefault1":"初始狀態",
+        "SettingsDefault2":"四方",
+        "SettingsDefault3":"瑜伽呼吸法",
+        "SettingsDefault4":"烏佳依呼吸",
+        "SettingsSlider1":"吸 入",
+        "SettingsSlider2":"屏住呼吸",
+        "SettingsSlider3":"呼 出",
+        "SettingsSlider4":"屏住呼吸",
+        "SettingsSectionTheme":"主題樣式",
+        "SettingsThemeColor":"白天 / 夜晚",
+        "SettingsThemeWords":"顯示文字",
+        "SettingsThemeAudio":"播放音樂",
+        "SettingsThemeLanguage":"選擇語言",
+        "SettingsThemeFullscreen":"全螢幕",
+        "SettingsSectionShare":"分享",
+        "SettingsShareJoin":"如果你想討論更多的呼吸方式請加入我們的<a href='https://www.facebook.com/xhalr/posts/1489984897976856' target='_blank'>Facebook</a>",
+        "SettingsShareEmbed":"想要嵌入eXHALeR到您的網站？使用此嵌入代碼，並與您的用戶共享。",
+        "CreatedBy":"Created by <a href='http://www.hamiltondraws.com' target='_blank'>Hamilton Cline</a>",
+        "Donate":"透過PayPal捐贈"
+    }
+}
