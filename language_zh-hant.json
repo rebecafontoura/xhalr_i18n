@@ -1,11 +1,10 @@
 {
     "LanguageEnglish":"Traditional Chinese",
     "LanguageNative":"繁體中文",
-    "LanguageCode":"zh-Hant",
+    "LanguageCode":"zh-hant",
     "Contributors":[
       {
-        "name":"黃維綸",
-        "url":" "
+        "name":"黃維綸"
       }
     ],
     "Phrases":{
