@@ -1,0 +1,40 @@
+{
+    "LanguageEnglish":"Spanish",
+    "LanguageNative":"Español",
+    "LanguageCode":"es",
+    "Contributors":[
+      {
+        "name":"Jesus Valenzuela",
+        "url":"http://ItsJes.us"
+      }
+    ],
+    "Phrases":{
+        "SiteTitle":"Respire Lentamente",
+        "SiteDescription":"La aplicación web eXHALeR es para ayudar con sus ejercicios de respiración, y se ha dicho que reduce el estrés y la ansiedad, promoviendo los patrones lentos de respiración.",
+        "SiteNews":"Noticias / Ayuda",
+        "TextReady":"listo",
+        "TextInhale":"inhalar",
+        "TextExhale":"exhalar",
+        "TextHold":"sostener",
+        "SettingsDescription":"Usa esta app de respiración para ayuda con tus  ejercicios de yoga o meditación. Si estás sufriendo de ansiedad o ataques de pánico, por favor visita <a href='http://www.adaa.org/tips-manage-anxiety-and-stress' target='_blank'>ADAA</a> para mas ayuda y consejos.",
+        "SettingsDefault1":"Defecto",
+        "SettingsDefault2":"Cuadrado",
+        "SettingsDefault3":"Pranayama",
+        "SettingsDefault4":"Ujjayi",
+        "SettingsSlider1":"Inhalar",
+        "SettingsSlider2":"Sostener la respiración",
+        "SettingsSlider3":"Exhalar",
+        "SettingsSlider4":"Sostener la respiración",
+        "SettingsSectionTheme":"Tema",
+        "SettingsThemeColor":"Dia / Noche",
+        "SettingsThemeWords":"Mostrar las Palabras",
+        "SettingsThemeAudio":"Reproducir el Audio",
+        "SettingsThemeLanguage":"Elegir Idioma",
+        "SettingsThemeFullscreen":"Pantalla Completa",
+        "SettingsSectionShare":"Compartir",
+        "SettingsShareJoin":"<a href='https://www.facebook.com/xhalr/posts/1489984897976856' target='_blank'>Unete a nosotros en Facebook</a> para discutir mas patrones de respiración.",
+        "SettingsShareEmbed":"¿Quieres incrustar la aplicación eXHALeR en tu sitio web? Utiliza este código de inserción y compartelo con tus usuarios.",
+        "CreatedBy":"Creado por <a href='http://www.hamiltondraws.com' target='_blank'>Hamilton Cline</a>",
+        "Donate":"Donar a través de PayPal"
+    }
+}
