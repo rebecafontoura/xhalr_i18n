@@ -1,0 +1,40 @@
+{
+    "LanguageEnglish":"French",
+    "LanguageNative":"Français",
+    "LanguageCode":"fr",
+    "Contributors":[
+    {
+        "name":"Neal El-Jor",
+        "url":"https://www.linkedin.com/in/nealeljor"
+    }
+    ],
+    "Phrases":{
+        "SiteTitle":"Respirer lentement",
+        "SiteDescription":"L'application web eXHALeR est destiné à aider avec vos exercises de respiration, et est capable de diminuer le stresse et l'anxiété en favorisant un modèle de respiration lent et régulier.",
+        "SiteNews":"Actualité / Aide",
+        "TextReady":"prêt",
+        "TextInhale":"inspirer",
+        "TextExhale":"expirer",
+        "TextHold":"retenir",
+        "SettingsDescription":"Utilisez cette application de respiration qui vous aidera avec votre yoga ou vos exercices de méditation. Si vous souffrez d'anxiété ou de crises de panique, merci de visiter le <a href='http://www.adaa.org/tips-manage-anxiety-and-stress' target='_blank'>ADAA</a> pour plus d'aide et de conseils.",
+        "SettingsDefault1":"Défaut",
+        "SettingsDefault2":"Carré",
+        "SettingsDefault3":"Pranayama",
+        "SettingsDefault4":"Ujjayi",
+        "SettingsSlider1":"Inspirer",
+        "SettingsSlider2":"Retenir le souffle",
+        "SettingsSlider3":"Expirer",
+        "SettingsSlider4":"Retenir le souffle",
+        "SettingsSectionTheme":"Thème",
+        "SettingsThemeColor":"Jour / Nuit",
+        "SettingsThemeWords":"Montrer les mots",
+        "SettingsThemeAudio":"Jouer l'audio",
+        "SettingsThemeLanguage":"Choisir la langue",
+        "SettingsThemeFullscreen":"Plein écran",
+        "SettingsSectionShare":"Partager",
+        "SettingsShareJoin":"<a href='https://www.facebook.com/xhalr/posts/1489984897976856' target='_blank'>Rejoignez-nous sur Facebook</a> pour discuter d'autres modèles de respiration.",
+        "SettingsShareEmbed":"Voulez-vous intégrer l'application eXHALeR sur votre site web? Utilisez ce code d'intégration pour le partager avec vos utilisateurs.",
+        "CreatedBy":"Créé par <a href='http://www.hamiltondraws.com' target='_blank'>Hamilton Cline</a>",
+        "Donate":"Contribuer via Paypal"
+    }
+}
