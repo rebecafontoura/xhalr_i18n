@@ -1,0 +1,39 @@
+{
+    "LanguageEnglish":"Hungarian",
+    "LanguageNative":"Magyar",
+    "LanguageCode":"hu",
+    "Contributors":[
+      {
+        "name":"Peter Gates",
+      }
+    ],
+    "Phrases":{
+        "SiteTitle":"Lassú Légzés",
+        "SiteDescription":"Az eXHALeR web app segíthet légzőtornájával, sokan a feszültség és aggodalom elleni veszi segítségét, a lassú és egyenletes legzés támogatásával.",
+        "SiteNews":"Hírek / Segítség",
+        "TextReady":"készen ál",
+        "TextInhale":"belégzés",
+        "TextExhale":"kilégzés",
+        "TextHold":"tartsa",
+        "SettingsDescription":"Használja ezt a webappet a jóga és meditácioi gyakorlatával. Ha nagyfokú szorongás vagy pánikroham alat szenvedik, kérjük az alábbi weboldalt nyissa <a href='http://www.adaa.org/tips-manage-anxiety-and-stress' target='_blank'>ADAA</a> for more help and tips.",
+        "SettingsDefault1":"Alapértelmezett",
+        "SettingsDefault2":"Négyzet",
+        "SettingsDefault3":"Pránajáma",
+        "SettingsDefault4":"Udzsáji",
+        "SettingsSlider1":"Belehelet",
+        "SettingsSlider2":"Légzés Tartása",
+        "SettingsSlider3":"Kilehelet",
+        "SettingsSlider4":"Légzés Tartása",
+        "SettingsSectionTheme":"Vázlat",
+        "SettingsThemeColor":"Nappali / Esti",
+        "SettingsThemeWords":"Szavak Mutatása",
+        "SettingsThemeAudio":"Kismelódia Játszása",
+        "SettingsThemeLanguage":"Nyelv Választása",
+        "SettingsThemeFullscreen":"Teljes Képernyő",
+        "SettingsSectionShare":"Share",
+        "SettingsShareJoin":"<a href='https://www.facebook.com/xhalr/posts/1489984897976856' target='_blank'>Join us on Facebook</a> to discuss more breathing patterns.",
+        "SettingsShareEmbed":"Szeretné az eXHALeR appet saját weboldalára tenni? Használja ezt a kódot és a webapp a sajat oldalán is lehet használni.",
+        "CreatedBy":"Készítette <a href='http://www.hamiltondraws.com' target='_blank'>Hamilton Cline</a>",
+        "Donate":"PayPálon Keresztüli Adományozás"
+    }
+}
