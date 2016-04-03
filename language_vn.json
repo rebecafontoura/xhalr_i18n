@@ -16,6 +16,8 @@
         "TextInhale":"hít vào",
         "TextExhale":"thở ra",
         "TextHold":"giữ",
+        "TextAffirmative":"vâng",
+        "TextNegative":"không",
         "SettingsDescription":"Trang web này cung cấp những phương pháp thở đúng cách khi tập yoga và thiền. Nếu bạn cảm thấy mình có triệu chứng của các bệnh tâm lí như lo âu hay rối loạn hoảng sợ, hãy tham khảo trang web <a href='http://www.adaa.org/tips-manage-anxiety-and-stress' target='_blank'>ADAA</a> để được giúp đỡ.",
         "SettingsDefault1":"Mặc Định",
         "SettingsDefault2":"Vuông",
@@ -35,6 +37,7 @@
         "SettingsShareJoin":"Hay tham gia bàn luận và chia sẻ các kĩ thuật thở trên<a href='https://www.facebook.com/xhalr/posts/1489984897976856' target='_blank'> Facebook của eXHALeR</a>",
         "SettingsShareEmbed":"Sử dụng đoạn mã dưới đây để nhúng eXHALeR vào trang web của bạn và chia sẻ với mọi người.",
         "CreatedBy":"Tạo bởi <a href='http://www.hamiltondraws.com' target='_blank'>Hamilton Cline</a>",
-        "Donate":"Đóng Góp Qua Paypal"
+        "Donate":"Đóng Góp Qua Paypal",
+        "Translate":"Dịch trang này sang tiếng Việt?"
     }
 }

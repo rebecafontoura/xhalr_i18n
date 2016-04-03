@@ -1,7 +1,7 @@
 {
     "LanguageEnglish":"Chinese Simplified",
     "LanguageNative":"中文",
-    "LanguageCode":"zh-hans",
+    "LanguageCode":"zh",
     "Contributors":[
       {
         "name":"郑长缨"
@@ -15,6 +15,8 @@
         "TextInhale":"吸入",
         "TextExhale":"呼出",
         "TextHold":"屏住呼吸",
+        "TextAffirmative":"是",
+        "TextNegative":"不",
         "SettingsDescription":"使用此呼吸程序，以帮助你的瑜伽冥想或练习。 如果你患有焦虑症或惊恐症,需要更多的帮助和提示，请访问 <a href='http://baike.qm120.com/jbjb/jsb/jlz/' target='_blank'>全民健康网|焦虑症</a> ",
         "SettingsDefault1":"初始狀态",
         "SettingsDefault2":"四方",
@@ -34,6 +36,7 @@
         "SettingsShareJoin":"如果你想讨论更多的呼吸方式请加入我们的<a href='https://www.facebook.com/xhalr/posts/1489984897976856' target='_blank'>Facebook</a>",
         "SettingsShareEmbed":"要嵌入eXHALeR到您的网站？使用此嵌入代码，并与您的用户共享。",
         "CreatedBy":"Created by <a href='http://www.hamiltondraws.com' target='_blank'>Hamilton Cline</a>",
-        "Donate":"通过PayPal捐赠"
+        "Donate":"通过PayPal捐赠",
+        "Translate":"翻译此页到中国？"
     }
 }

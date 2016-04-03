@@ -20,6 +20,8 @@
         "TextInhale":"inhale",
         "TextExhale":"exhale",
         "TextHold":"hold",
+        "TextAffirmative":"yes",
+        "TextNegative":"no",
         "SettingsDescription":"Use this breathing app to help with your yoga or meditation exercises. If you are suffering from anxiety or panic attacks, please visit the <a href='http://www.adaa.org/tips-manage-anxiety-and-stress' target='_blank'>ADAA</a> for more help and tips.",
         "SettingsDefault1":"Default",
         "SettingsDefault2":"Square",
@@ -39,6 +41,7 @@
         "SettingsShareJoin":"<a href='https://www.facebook.com/xhalr/posts/1489984897976856' target='_blank'>Join us on Facebook</a> to discuss more breathing patterns.",
         "SettingsShareEmbed":"Want to embed the eXHALeR app into your website? Use this embed code and share it with your users.",
         "CreatedBy":"Created by <a href='http://www.hamiltondraws.com' target='_blank'>Hamilton Cline</a>",
-        "Donate":"Donate Through Paypal"
+        "Donate":"Donate Through Paypal",
+        "Translate":"Translate this page into English?"
     }
 }

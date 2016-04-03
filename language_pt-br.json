@@ -16,6 +16,8 @@
         "TextInhale":"inspire",
         "TextExhale":"expire",
         "TextHold":"manter",
+        "TextAffirmative":"sim",
+        "TextNegative":"não",
         "SettingsDescription":"Use este aplicativo de respiração para te ajudar com exercícios de yoga e meditação. Se você está sofrendo de ansiedade ou ataques de pânico, por favor visite <a href='http://www.vladman.net/dicas.php' target='_blank'>vladman.net</a> para mais ajudas e dicas.",
         "SettingsDefault1":"Padrão",
         "SettingsDefault2":"Quadrado",
@@ -35,6 +37,7 @@
         "SettingsShareJoin":"<a href='https://www.facebook.com/xhalr/posts/1489984897976856' target='_blank'>Acompanhe-nos no Facebook</a> para discutir mais sobre padrões de respiração.",
         "SettingsShareEmbed":"Deseja exibir o eXHALeR app em seu site? Use o código abaixo e compartilhe com seus visitantes.",
         "CreatedBy":"Criado por <a href='http://www.hamiltondraws.com' target='_blank'>Hamilton Cline</a>",
-        "Donate":"Doe através do Paypal"
+        "Donate":"Doe através do Paypal",
+        "Translate":"Traduzir esta página em Português?"
     }
 }

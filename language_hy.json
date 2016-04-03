@@ -15,6 +15,8 @@
 		"TextInhale":"շնչել",
 		"TextExhale":"արտաշնչել",
 		"TextHold":"պահել",
+        "TextAffirmative":"այո",
+        "TextNegative":"ոչ",
 		"SettingsDescription":"Կիրառեք այս շնչառական հավելվածը՝ օժանդակելու յոգայի կամ մեդիտացիայի ձեր վարժություններին: Եթե դուք տառապում եք անհանգստության և տագնապի ախտանիշներով, այցելեք խնդրեմ <a href='http://www.adaa.org/tips-manage-anxiety-and-stress' target='_blank'>ADAA</a> լրացուցիչ օգնության և օգտակար խորհուրդների համար:",
 		"SettingsDefault1":"բեյսիկ",
 		"SettingsDefault2":"Քառակուսի",
@@ -34,6 +36,7 @@
 		"SettingsShareJoin":"<a href='https://www.facebook.com/xhalr/posts/1489984897976856' target='_blank'>Միացեք մեզ Ֆեյսբուքում</a> ավելի շատ շնչառական վարժություններ քննարկելու համար:",
 		"SettingsShareEmbed":"Ցանկանո՞ւմ եք տեղադրել eXHALeR հավելվածը ձեր կայքում: Կիրառեք տեղադրման այդ կոդը և կիսեք այն ձեր օգտատերերի հետ:",
 		"CreatedBy":"Ստեղծվել է Համիլթոն Քլայնի կողմից<a href='http://www.hamiltondraws.com' target='_blank'>Hamilton Cline</a>",
-		"Donate":"Նվիրատվությունը՝ Paypal-ով"
+		"Donate":"Նվիրատվությունը՝ Paypal-ով",
+        "Translate":"Թարգմանել այս էջը հայերեն."
 	}
 }

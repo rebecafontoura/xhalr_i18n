@@ -16,6 +16,8 @@
         "TextInhale":"inhale",
         "TextExhale":"exhale",
         "TextHold":"fan",
+        "TextAffirmative":"yes",
+        "TextNegative":"no",
         "SettingsDescription":"Má tá tú ag fulaingt ó imní nó Scaoill ionsaithe, tabhair cuairt ar an <a href='http://www.adaa.org/tips-manage-anxiety-and-stress' target='_blank'>ADAA</a> le haghaidh tuilleadh cabhrach agus leideanna.",
         "SettingsDefault1":"Réamhshocrú",
         "SettingsDefault2":"Cearnóg",
@@ -35,6 +37,7 @@
         "SettingsShareJoin":"<a href='https://www.facebook.com/xhalr/posts/1489984897976856' target='_blank'>Bí linn ar Facebook</a> chun patrúin análaithe níos phlé.",
         "SettingsShareEmbed":"Leabú an app eXHALeR isteach i do láithreán gréasáin ? Bain úsáid as an cód leabú agus é a roinnt le do úsáideoirí.",
         "CreatedBy":"Cruthaithe ag <a href='http://www.hamiltondraws.com' target='_blank'>Hamilton Cline</a>",
-        "Donate":"Síntiúis Trí PayPal"
+        "Donate":"Síntiúis Trí PayPal",
+        "Translate":"Aistrigh an leathanach go Gaeilge?"
     }
 }
