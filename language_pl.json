@@ -1,0 +1,43 @@
+{
+    "LanguageEnglish":"Polish",
+    "LanguageNative":"Polski",
+    "LanguageCode":"pl",
+    "Contributors":[
+      {
+        "name":"NoFap",
+        "url":"https://www.reddit.com/r/NoFap/"
+      }
+    ],
+    "Phrases":{
+        "SiteTitle":"Oddychaj Spokojnie",
+        "SiteDescription":"Aplikacja internetowa eXHALeR ma na celu pomóc ci w twoich ćwiczeniach oddechowych, które zmniejszają stres i niepokój, dzięki rozwijaniu powolnych i równomiernych nawyków oddechowych.",
+        "SiteNews":"Aktualności / Pomoc",
+        "TextReady":"gotowy",
+        "TextInhale":"wdech",
+        "TextExhale":"wydech",
+        "TextHold":"wstrzymaj",
+        "TextAffirmative":"tak",
+        "TextNegative":"nie",
+        "SettingsDescription":"Użyj tej aplikacji aby usprawnić ćwiczenia dotyczące jogi i medytacji. Jeśli cierpisz z powodu zaburzeń lękowych lub napadów paniki, odwiedź proszę <a href='http://www.adaa.org/tips-manage-anxiety-and-stress' target='_blank'>ADAA</a> po więcej rad i wskazówek.",
+        "SettingsDefault1":"Domyślny",
+        "SettingsDefault2":"Kwadrat",
+        "SettingsDefault3":"Pranajama",
+        "SettingsDefault4":"Ujjayi",
+        "SettingsSlider1":"Wdech",
+        "SettingsSlider2":"Wstrzymaj Oddech",
+        "SettingsSlider3":"Wydech",
+        "SettingsSlider4":"Wstrzymaj Oddech",
+        "SettingsSectionTheme":"Wygląd",
+        "SettingsThemeColor":"Dzień / Noc",
+        "SettingsThemeWords":"Pokazuj Słowa",
+        "SettingsThemeAudio":"Włącz Dźwięk",
+        "SettingsThemeLanguage":"Wybierz Język",
+        "SettingsThemeFullscreen":"Pełny Ekran",
+        "SettingsSectionShare":"Udostępnij",
+        "SettingsShareJoin":"<a href='https://www.facebook.com/xhalr/posts/1489984897976856' target='_blank'>Dołącz do nas na Facebooku</a> aby porozmawiać o ćwiczeniach oddechowych.",
+        "SettingsShareEmbed":"Chcesz dodać aplikacje eXHALeR do swojej strony? Użyj tego kodu:",
+        "CreatedBy":"Stworzone przez <a href='http://www.hamiltondraws.com' target='_blank'>Hamilton Cline</a>",
+        "Donate":"Wesprzyj Poprzez Paypal",
+        "Translate":"Przetłumaczyć tę stronę na Polski?"
+    }
+}
