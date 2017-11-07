@@ -1,0 +1,47 @@
+{
+    "LanguageEnglish":"English",
+    "LanguageNative":"English",
+    "LanguageCode":"en",
+    "Contributors":[
+      {
+        "name":"Hamilton Cline",
+        "url":"http://www.hamiltondraws.com"
+      },
+      {
+        "name":"Max Ma",
+        "url":"http://www.mxma.net"
+      }
+    ],
+    "Phrases":{
+        "SiteTitle":"Anda Rólega",
+        "SiteDescription":"Exhaler vef appið er til þess að hjálpa þér við öndundaræfingar, talað hefur verið um að það hjálpi fólki við stress að anda rólega með hjálp öndunarmynstra.",
+        "SiteNews":"Fréttir / Hjálp",
+        "TextReady":"Tilbúin(n)",
+        "TextInhale":"anda inn",
+        "TextExhale":"anda út",
+        "TextHold":"halda",
+        "TextAffirmative":"já",
+        "TextNegative":"nei",
+        "SettingsDescription":"Notaðu þetta app þegar að þig vantar hjálp við yoga æfingar eða öndunaræfingar. Ef þú upplifir mikið stress reglulega, vinsamlegast farðu á þessa síðu <a href='http://www.adaa.org/tips-manage-anxiety-and-stress' target='_blank'>ADAA</a> til þess að leita hjálpar.",
+        "SettingsDefault1":"Default",
+        "SettingsDefault2":"Square",
+        "SettingsDefault3":"Pranayama",
+        "SettingsDefault4":"Ujjayi",
+        "SettingsSlider1":"Anda Inn",
+        "SettingsSlider2":"Halda inni andanum",
+        "SettingsSlider3":"Anda Út",
+        "SettingsSlider4":"Halda inni andanum",
+        "SettingsSectionTheme":"Þema",
+        "SettingsThemeColor":"Dagur / Nótt",
+        "SettingsThemeWords":"Sýna Orð",
+        "SettingsThemeAudio":"Spila Hljóð",
+        "SettingsThemeLanguage":"Velja Tungumál",
+        "SettingsThemeFullscreen":"Setja í stóran skjá",
+        "SettingsSectionShare":"Deila",
+        "SettingsShareJoin":"<a href='https://www.facebook.com/xhalr/posts/1489984897976856' target='_blank'>Join us on Facebook</a> to discuss more breathing patterns.",
+        "SettingsShareEmbed":"Viltu setja eXHALeR appið  þína síðu? Notaðu þennan kóða og deildu með notendum þínum.",
+        "CreatedBy":"Created by <a href='http://www.hamiltondraws.com' target='_blank'>Hamilton Cline</a>",
+        "Donate":"Styrkja í gegnum Paypal",
+        "Translate":"Translate this page into English?"
+    }
+}
