@@ -1,0 +1,43 @@
+{
+    "LanguageEnglish":"Hindi",
+    "LanguageNative":"हिंदी",
+    "LanguageCode":"hi",
+    "Contributors":[
+      {
+        "name":"Saurabh Tripathi",
+        "url":"http://www.hamiltondraws.com"
+      }
+    ],
+    "Phrases":{
+        "SiteTitle":"धीरे-धीरे श्वास लें",
+        "SiteDescription":"EXHALeR वेब ऐप आपके श्वास अभ्यास के साथ मदद करने के लिए है। यह कहा गया है कि धीमी और समतल श्वास पैटर्न को बढ़ावा देने से, यह तनाव और चिंता को कम कर देता है।",
+        "SiteNews":"News / Help",
+        "TextReady":"तैयार",
+        "TextInhale":"सांस लें",
+        "TextExhale":"सांस छोड़े",
+        "TextHold":"सांस रोके",
+        "TextAffirmative":"हाँ",
+        "TextNegative":"ना",
+        "SettingsDescription":"अपने योग या ध्यान अभ्यास के लिए इस ऍप का प्रयोग करें। यदि आप चिंता या घबराहट के दौरे (पैनिक अटैक) से पीड़ित हैं, तो कृपया <a href='http://www.adaa.org/tips-manage-anxiety-and-stress' target='_blank'> ADAA </a> पर जाएं अधिक मदद और सुझाव के लिए जायें.",
+        "SettingsDefault1":"आम (डिफ़ॉल्ट)",
+        "SettingsDefault2":"चौकोन",
+        "SettingsDefault3":"प्राणायाम",
+        "SettingsDefault4":"उज्जयी",
+        "SettingsSlider1":"सांस लें",
+        "SettingsSlider2":"सांस रोकें",
+        "SettingsSlider3":"सांस छोड़ें",
+        "SettingsSlider4":"सांस रोकें",
+        "SettingsSectionTheme":"Theme",
+        "SettingsThemeColor":"दिन / रात",
+        "SettingsThemeWords":"निर्देश दिखाएँ",
+        "SettingsThemeAudio":"संगीत",
+        "SettingsThemeLanguage":"भाषा चुनिए",
+        "SettingsThemeFullscreen":"Fullscreen",
+        "SettingsSectionShare":"Share",
+        "SettingsShareJoin":"<a href='https://www.facebook.com/xhalr/posts/1489984897976856' target='_blank'>Join us on Facebook</a> to discuss more breathing patterns.",
+        "SettingsShareEmbed":"Want to embed the eXHALeR app into your website? Use this embed code and share it with your users.",
+        "CreatedBy":"Created by <a href='http://www.hamiltondraws.com' target='_blank'>Hamilton Cline</a>",
+        "Donate":"दान करें पे-पाल से(Donate Through Paypal)",
+        "Translate":"Translate this page into English?"
+    }
+}
